@@ -5,7 +5,7 @@ description = ""
 authors = ["Marcelo Pedroni da Silva <marcelopedronidasilva@outlook.com.br>"]
 
 [tool.poetry.dependencies]
-python  = "^3.9"
+python  = "^3.8.10"
 tweepy  = "^4.6.0"
 pymongo = "^4.0.2"
 fastapi = "^0.68.1"
